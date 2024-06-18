@@ -30,7 +30,9 @@
     26 => 'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider',
     27 => 'Termwind\\Laravel\\TermwindServiceProvider',
     28 => 'App\\Providers\\AppServiceProvider',
-    29 => 'Modules\\Order\\Providers\\OrderServiceProvider',
+    29 => 'Modules\\Shipment\\Providers\\ShipmentServiceProvider',
+    30 => 'Modules\\Order\\Providers\\OrderServiceProvider',
+    31 => 'Modules\\Product\\Providers\\ProductServiceProvider',
   ),
   'eager' => 
   array (
@@ -49,7 +51,9 @@
     12 => 'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider',
     13 => 'Termwind\\Laravel\\TermwindServiceProvider',
     14 => 'App\\Providers\\AppServiceProvider',
-    15 => 'Modules\\Order\\Providers\\OrderServiceProvider',
+    15 => 'Modules\\Shipment\\Providers\\ShipmentServiceProvider',
+    16 => 'Modules\\Order\\Providers\\OrderServiceProvider',
+    17 => 'Modules\\Product\\Providers\\ProductServiceProvider',
   ),
   'deferred' => 
   array (
